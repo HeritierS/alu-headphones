@@ -1,7 +1,3 @@
-# alx-headphones
-![alx logo](https://www.alxafrica.com/wp-content/uploads/2022/12/logo-white.svg)
-> Implement a design from scratch
-
 ## Description
 In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.
 
@@ -17,5 +13,3 @@ You won't have a lot of instructions, you are free to implement it the way that 
 * Simple CSS selectors.
 * Simple HTML structure.
 
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha) 
